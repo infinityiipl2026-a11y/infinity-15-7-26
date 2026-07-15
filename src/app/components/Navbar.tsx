@@ -327,7 +327,7 @@ export default function Navbar() {
                   className={`block rounded-lg px-4 py-3.5 text-base font-semibold tracking-wide transition-colors duration-200 ${
                     isActive
                       ? "bg-forest text-cream"
-                      : "text-ink hover:bg-cream hover:text-forest"
+                      : "text-ink hover: hover:text-forest"
                   }`}
                 >
                   {link.label}

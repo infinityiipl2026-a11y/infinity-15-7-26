@@ -9,7 +9,7 @@ export default function StepViewer({ steps }: { steps: OrigamiStep[] }) {
           className="rounded-2xl border border-mist bg-paper p-5 sm:p-6 shadow-sm"
         >
           <div className="flex flex-col gap-5 sm:flex-row sm:items-start">
-            <div className="flex h-48 w-full shrink-0 items-center justify-center rounded-xl bg-cream sm:w-48">
+            <div className="flex h-48 w-full shrink-0 items-center justify-center rounded-xl white sm:w-48">
               <img
                 src={step.svgImage}
                 alt={`${step.title} illustration`}

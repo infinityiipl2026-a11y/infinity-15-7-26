@@ -9,7 +9,7 @@ export default function FinishedModel({
 }) {
   return (
     <div className="text-center">
-      <div className="mx-auto flex h-64 w-full max-w-sm items-center justify-center rounded-3xl border border-mist bg-cream sm:h-72">
+      <div className="mx-auto flex h-64 w-full max-w-sm items-center justify-center rounded-3xl border border-mist bg-white sm:h-72">
         <img
           src={finalImage}
           alt={`Finished ${title}`}

@@ -10,21 +10,21 @@ const accentClasses: Record<
 > = {
   green: {
     border: "border-forest/15 hover:border-forest/40",
-    bg: "bg-forest/10",
+    bg: "bg-white/10",
     text: "text-forest",
     badgeBg: "bg-forest",
     button: "bg-forest text-cream group-hover:bg-forest-dark",
   },
   orange: {
     border: "border-gold/25 hover:border-gold/50",
-    bg: "bg-gold/15",
+    bg: "bg-white/15",
     text: "text-gold-light",
     badgeBg: "bg-gold",
     button: "bg-gold text-ink group-hover:bg-gold-light",
   },
   red: {
     border: "border-clay/20 hover:border-clay/45",
-    bg: "bg-clay/10",
+    bg: "bg-white/10",
     text: "text-clay",
     badgeBg: "bg-clay",
     button: "bg-clay text-cream group-hover:bg-clay-dark",

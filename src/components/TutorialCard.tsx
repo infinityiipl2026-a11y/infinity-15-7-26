@@ -18,7 +18,7 @@ export default function TutorialCard({ item }: Props) {
       href={`/origami/${item.slug}`}
       className="group flex h-full flex-col overflow-hidden rounded-2xl border border-mist bg-paper shadow-[0_8px_25px_rgba(0,0,0,0.06)] transition-all duration-300 hover:-translate-y-1.5 hover:shadow-[0_18px_40px_rgba(44,74,62,0.14)]"
     >
-      <div className="flex h-40 items-center justify-center bg-cream">
+      <div className="flex h-40 items-center justify-center white">
         <img
           src={item.thumbnail}
           alt={`${item.title} diagram thumbnail`}
