@@ -123,14 +123,16 @@ export default function HomePage() {
           <h2 className="font-display font-bold text-forest text-3xl sm:text-4xl lg:text-[48px] mb-6">
             Who We Are
           </h2>
-<p className="text-base lg:text-[17px] leading-9 text-justify mb-4">              Infinity Industries Pvt. Ltd. is a trusted paper supplier and
+          <p className="text-base lg:text-[17px] leading-9 text-justify mb-4">              
+            Infinity Industries Pvt. Ltd. is a trusted paper supplier and
             distributor in India, specializing in writing &amp; printing
             paper, packaging paper, industrial paper, and speciality grades.
             With decades of experience, we provide high-quality paper
             solutions through global sourcing, efficient logistics, and
             reliable supply chain management.
           </p>
-<p className="text-base lg:text-[17px] leading-9 text-justify mb-8">            We cater to industries across packaging, printing, manufacturing,
+          <p className="text-base lg:text-[17px] leading-9 text-justify mb-8">            
+            We cater to industries across packaging, printing, manufacturing,
             and commercial sectors, ensuring consistent quality and timely
             delivery. Our expertise in imported and domestic paper makes us a
             preferred partner for businesses across India.
