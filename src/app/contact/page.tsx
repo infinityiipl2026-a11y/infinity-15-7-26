@@ -5,7 +5,7 @@ import { offices } from "../lib/site-config";
 export const metadata: Metadata = {
   title: "Contact Us",
   description:
-    "Get in touch with Infinity Industries Pvt. Ltd. — our Head Office in Mumbai, Delhi branch, and Bhawale warehouse. Email, call, or visit us.",
+    "Get in touch with Infinity Industries — our Head Office in Mumbai, Delhi branch, and Bhawale warehouse. Email, call, or visit us.",
   alternates: { canonical: "/contact" },
 };
 

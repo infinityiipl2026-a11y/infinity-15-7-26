@@ -4,7 +4,7 @@ import Image from "next/image";
 export const metadata: Metadata = {
   title: "About Us",
   description:
-    "Infinity Industries Pvt. Ltd. is a leading paper solutions company with over 50+ years of industry expertise, offering global sourcing, paper conversion, warehousing, logistics, and distribution services across India.",
+    "Infinity Industries is a leading paper solutions company with over 50+ years of industry expertise, offering global sourcing, paper conversion, warehousing, logistics, and distribution services across India.",
   alternates: { canonical: "/about" },
 };
 
@@ -28,13 +28,13 @@ const people = [
     image: "/images/founder2.png",
     role: "Founder & Chairman",
     name: "Mr. Lakhamshi J. Gala",
-    bio: "Mr. Lakhamshi J. Gala founded Reliable Paper in 1974 and later established Infinity Industries Pvt. Ltd. in 2001. With over five decades of industry experience, his vision, integrity, and leadership have built a strong foundation of trust, excellence, and long-term partnerships in the paper industry.",
+    bio: "Mr. Lakhamshi J. Gala founded Reliable Paper in 1974 and later established Infinity Industries in 2001. With over five decades of industry experience, his vision, integrity, and leadership have built a strong foundation of trust, excellence, and long-term partnerships in the paper industry.",
   },
   {
     image: "/images/md.jpg",
     role: "Managing Director",
     name: "Mr. Bhavesh L. Gala",
-    bio: "Mr. Bhavesh L. Gala brings over 30+ years of experience in the paper industry and leads Infinity Industries Pvt. Ltd. with a focus on growth, innovation, and global partnerships. His commitment to quality, operational excellence, and customer satisfaction continues to strengthen the company's position in the market, while his involvement with the Federation of Paper Traders Association (FPTA) reflects his dedication to the industry.",
+    bio: "Mr. Bhavesh L. Gala brings over 30+ years of experience in the paper industry and leads Infinity Industries with a focus on growth, innovation, and global partnerships. His commitment to quality, operational excellence, and customer satisfaction continues to strengthen the company's position in the market, while his involvement with the Federation of Paper Traders Association (FPTA) reflects his dedication to the industry.",
   },
 ];
 
@@ -51,7 +51,7 @@ export default function AboutPage() {
 
         <div className="max-w-[900px] mx-auto text-center mb-16">
           <p className="text-slate text-lg leading-relaxed">
-            Infinity Industries Pvt. Ltd. is a leading paper solutions company
+            Infinity Industries is a leading paper solutions company
             with over 50+ years of industry expertise, offering global
             sourcing, paper conversion, warehousing, logistics, and
             distribution services across India.

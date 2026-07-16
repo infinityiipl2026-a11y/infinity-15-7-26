@@ -8,7 +8,7 @@ export default function OrganizationJsonLd() {
     url: siteConfig.url,
     logo: `${siteConfig.url}/images/logo.png`,
     description:
-      "Infinity Industries Pvt. Ltd. is a leading paper supplier and distributor in India offering packaging, industrial, and speciality paper with 50+ years experience.",
+      "Infinity Industries is a leading paper supplier and distributor in India offering packaging, industrial, and speciality paper with 50+ years experience.",
     address: {
       "@type": "PostalAddress",
       streetAddress:

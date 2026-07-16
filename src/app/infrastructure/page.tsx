@@ -68,7 +68,7 @@ export default function InfrastructurePage() {
               World-Class Infrastructure &amp; Global Supply Chain Excellence
             </h2>
             <p className="text-slate text-lg leading-loose">
-              Infinity Industries Pvt. Ltd. operates with a robust supply
+              Infinity Industries operates with a robust supply
               chain network, strategically located warehouses, quality
               control systems and efficient logistics solutions to ensure
               consistent delivery and customer satisfaction.

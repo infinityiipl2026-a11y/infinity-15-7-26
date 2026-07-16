@@ -4,7 +4,7 @@ import CareerForm from "@/app/components/CareerForm";
 export const metadata: Metadata = {
   title: "Careers",
   description:
-    "Build your career with Infinity Industries Pvt. Ltd. Join a team driven by innovation, integrity, and over 50+ years of industry excellence.",
+    "Build your career with Infinity Industries. Join a team driven by innovation, integrity, and over 50+ years of industry excellence.",
   alternates: { canonical: "/career" },
 };
 

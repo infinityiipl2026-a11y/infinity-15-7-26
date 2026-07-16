@@ -7,7 +7,7 @@ import OrigamiSection from "../components/OrigamiSection";
 export const metadata: Metadata = {
   title: "Home",
   description:
-    "India's trusted partner for paper & packaging solutions. Infinity Industries Pvt. Ltd. delivers premium paper, packaging and industrial paper through global sourcing and reliable supply chains.",
+    "India's trusted partner for paper & packaging solutions. Infinity Industries delivers premium paper, packaging and industrial paper through global sourcing and reliable supply chains.",
   alternates: { canonical: "/" },
 };
 
@@ -124,7 +124,7 @@ export default function HomePage() {
             Who We Are
           </h2>
           <p className="text-base lg:text-[17px] leading-9 text-justify mb-4">              
-            Infinity Industries Pvt. Ltd. is a trusted paper supplier and
+            Infinity is a trusted paper supplier and
             distributor in India, specializing in writing &amp; printing
             paper, packaging paper, industrial paper, and speciality grades.
             With decades of experience, we provide high-quality paper
