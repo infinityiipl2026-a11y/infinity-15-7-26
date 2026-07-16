@@ -41,7 +41,7 @@ export default function PrintClient({ item }: { item: OrigamiItem }) {
             </div>
           </div>
           <span className="rounded-full bg-cream px-4 py-1.5 text-[11px] font-bold uppercase tracking-[0.18em] text-forest">
-            DIY Corner
+            Origami
           </span>
         </header>
 

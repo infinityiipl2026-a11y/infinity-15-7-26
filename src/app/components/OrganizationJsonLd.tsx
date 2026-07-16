@@ -23,7 +23,7 @@ export default function OrganizationJsonLd() {
         "@type": "ContactPoint",
         telephone: "+91-22-40462288",
         contactType: "customer service",
-        email: "info@einfinity.in",
+        email: "infinity@galagroup.net",
       },
     ],
     sameAs: [],

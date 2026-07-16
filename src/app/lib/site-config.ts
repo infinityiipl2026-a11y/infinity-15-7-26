@@ -48,7 +48,7 @@ export const offices = [
     name: "Head Office",
     address:
       "1st Floor, Haroon House, 294, Perin Nariman St, opposite Reserve Bank Of India, Fort, Mumbai, Maharashtra 400001",
-    emails: ["info@einfinity.in", "sales@einfinity.in"],
+    emails: ["infinity@galagroup.net"],
     phone: "+91-22-40462288",
     phoneHref: "+912240462288",
     mapSrc:
@@ -57,7 +57,7 @@ export const offices = [
   {
     name: "Delhi Branch",
     address: "2nd floor, 79, Shyam Lal Rd, Daryaganj, New Delhi, Delhi, 110002",
-    emails: ["delhi@einfinity.in", "araza@galagroup.net"],
+    emails: ["delhi@galagroup.net"],
     phone: "+91-011-43752288",
     phoneHref: "+91-011-43752288",
     mapSrc:

@@ -132,10 +132,10 @@ export default function Footer() {
               <div className="flex items-center gap-3">
                 <FaEnvelope className="text-gold shrink-0" />
                 <a
-                  href="mailto:info@einfinity.in"
+                  href="mailto:infinity@galagroup.net"
                   className="hover:text-gold transition-colors break-all"
                 >
-                  info@einfinity.in
+                 infinity@galagroup.net
                 </a>
               </div>
             </div>

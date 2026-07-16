@@ -219,7 +219,7 @@ export default function Navbar() {
             <NavLink href="/products" label="Products" />
           </li>
           <li>
-            <DropdownMenu label="DIY Corner" isActive={pathname.startsWith("/origami")}>
+            <DropdownMenu label="Origami" isActive={pathname.startsWith("/origami")}>
               <DiyCornerDropdownItems />
             </DropdownMenu>
           </li>
